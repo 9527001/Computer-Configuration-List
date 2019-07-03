@@ -19,6 +19,8 @@
 - Google Chrome
 ## 清理工具
 - Tencent Lemon(柠檬🍋)
+## 文字编辑器
+- Typora-markdown编辑器
 ## 其他开发工具
 - OSS
 - Datum Lite
