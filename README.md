@@ -23,6 +23,8 @@
 ## 文字编辑器
 - [**Typora**](https://www.typora.io/)-markdown编辑器
 ## 其他开发工具
-- [**OSS**](https://help.aliyun.com/document_detail/61872.html?spm=5176.8465980.home.14.1c9c1450dUISpL)
 - [**Datum Lite**](https://apps.apple.com/cn/app/datum-lite/id901631046?mt=12)
 - [**搜狗输入法**](https://pinyin.sogou.com/mac/)
+## 云存储工具
+- [**百度云盘**](http://pan.baidu.com/download#pan) - 让美好永远陪伴官网
+- [**OSS**](https://help.aliyun.com/document_detail/61872.html?spm=5176.8465980.home.14.1c9c1450dUISpL)
