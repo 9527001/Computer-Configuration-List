@@ -2,6 +2,7 @@
 电脑配置清单，方便电脑切换配置
 ## 开发编译器
 - [**Xcode[App Store]**](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
+- [**Android Studio**](https://developer.android.google.cn/studio) - Android Studio provides the fastest tools for building apps on every type of Android device.
 - [**hbuilder**](http://www.dcloud.io/) - 为开发者而生
 ## 代码管理工具
 - [**SourceTree**](https://www.sourcetreeapp.com/) - A free Git client for Windows and Mac
