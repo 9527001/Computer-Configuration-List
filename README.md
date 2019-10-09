@@ -32,3 +32,8 @@
 - [**爱奇艺**](https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E7%A0%B4%E5%86%B0%E8%A1%8C%E5%8A%A8%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1012296988?l=en&mt=12) - 在线视频网站-海量正版高清视频在线观看
 - [**优酷**](https://apps.apple.com/cn/app/%E4%BC%98%E9%85%B7/id1014945607?mt=12) - 这世界很酷
 - [**腾讯视频**](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E5%87%A4%E5%BC%88%E7%B2%BE%E5%BD%A9%E5%91%88%E7%8E%B0/id1231336508?l=en&mt=12) - 中国领先的在线视频媒体平台,海量高清视频在线观看
+## 翻墙
+- [**lanern**](https://github.com/getlantern/lantern)
+## 模拟器
+- [**网易mumu**](http://mumu.163.com/)
+- [**雷电模拟器](https://www.ldmnq.com)
