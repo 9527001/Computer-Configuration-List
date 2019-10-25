@@ -1,5 +1,8 @@
 # Computer-Configuration-List
 电脑配置清单，方便电脑切换配置
+## app下载地址
+- [AppStore]()
+- [MAC毒](https://www.macdu.org/apps-download/hot-app)
 ## 开发编译器
 - [**Xcode[App Store]**](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 - [**Android Studio**](https://developer.android.google.cn/studio) - Android Studio provides the fastest tools for building apps on every type of Android device.
